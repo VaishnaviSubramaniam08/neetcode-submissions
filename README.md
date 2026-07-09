@@ -1,87 +1,94 @@
-🚀 NeetCode Solutions – Coding Interview Preparation
+# 🚀 NeetCode Solutions
 
-Repository: neetcode-submissions
+A curated collection of my solutions to **NeetCode** and **LeetCode** coding interview problems. This repository serves as my personal DSA practice journal, showcasing optimized solutions, consistent problem-solving, and interview preparation.
 
-📌 Project Overview
+## 📖 About
 
-This repository contains my solutions to coding interview problems solved on NeetCode and LeetCode. The solutions are organized topic-wise and include optimized approaches implemented in multiple programming languages.
+This repository contains my accepted solutions to coding problems covering various Data Structures and Algorithms topics. The goal is to improve problem-solving skills, understand different algorithmic approaches, and prepare for technical interviews.
 
-The purpose of this project is to strengthen my problem-solving skills, improve algorithmic thinking, and prepare for software engineering interviews.
+## 🎯 Goals
 
-🎯 Objectives
-Practice Data Structures and Algorithms regularly.
-Improve coding efficiency and optimization skills.
-Learn different approaches to solving the same problem.
-Build consistency in interview preparation.
-Maintain a structured repository of solved coding problems.
-🛠 Technologies Used
-Programming Languages
-C++
-Python
-Java (when applicable)
-Concepts Covered
-Arrays
-Strings
-Linked Lists
-Stacks & Queues
-Trees
-Binary Search
-Graphs
-Dynamic Programming
-Backtracking
-Hash Maps
-Sliding Window
-Greedy Algorithms
-Recursion
-Matrix Problems
-📂 Project Structure
-NeetCode-Solutions
-│
-├── Arrays
-├── Strings
-├── Linked List
-├── Stack
-├── Queue
-├── Trees
-├── Graphs
-├── Dynamic Programming
-├── Binary Search
-├── Backtracking
-└── ...
+- Strengthen Data Structures and Algorithms concepts
+- Practice coding interview questions consistently
+- Improve problem-solving and logical thinking
+- Learn optimized solutions with better time and space complexity
+- Track coding progress over time
 
-Each folder contains accepted solutions with clean, optimized code and follows a structured organization.
+## 🛠 Languages Used
 
-✨ Features
-Organized topic-wise solutions
-Optimized algorithms
-Clean and readable code
-Interview-focused problem set
-Continuous updates as new problems are solved
-Covers Easy, Medium, and Hard problems
-📈 Skills Demonstrated
-Problem Solving
-Algorithm Design
-Time Complexity Optimization
-Space Complexity Optimization
-Data Structures
-Competitive Programming
-Debugging
-Coding Interview Preparation
-📚 Sample Topics Completed
-Topic	Problems Solved
-Arrays	✓
-Hash Tables	✓
-Backtracking	✓
-Matrix	✓
-Trees	Ongoing
-Graphs	Ongoing
-Dynamic Programming	Ongoing
-🎯 Learning Outcome
+- C++
+- Python
+- Java (Occasionally)
 
-Through this project, I have strengthened my understanding of core Data Structures and Algorithms by implementing optimized solutions for real interview problems. It has significantly improved my coding speed, logical thinking, and confidence in solving technical interview questions.
+## 📚 Topics Covered
 
-🔄 Status
+- Arrays
+- Strings
+- Hash Tables
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Trees
+- Binary Search Trees
+- Graphs
+- Heaps / Priority Queues
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Backtracking
+- Recursion
+- Dynamic Programming
+- Greedy Algorithms
+- Matrix
+- Bit Manipulation
 
-🚀 Actively Maintained
+## 📂 Repository Structure
 
-New coding solutions are added regularly as I continue solving interview problems on NeetCode and LeetCode.
+```
+Topic/
+├── Problem-Name/
+│   ├── submission-0.cpp
+│   ├── submission-1.cpp
+│   └── ...
+```
+
+Example:
+
+```
+Array/
+└── Two Sum/
+    └── submission-0.cpp
+
+Backtracking/
+└── Sudoku Solver/
+    └── submission-0.cpp
+```
+
+## ✨ Highlights
+
+- ✅ Topic-wise organized solutions
+- ✅ Optimized implementations
+- ✅ Interview-focused problems
+- ✅ Clean and readable code
+- ✅ Continuous updates
+
+## 📈 Skills Demonstrated
+
+- Problem Solving
+- Data Structures
+- Algorithms
+- Time Complexity Analysis
+- Space Optimization
+- Competitive Programming
+- Coding Interview Preparation
+
+## 📌 Progress
+
+This repository is actively updated as I solve new problems on NeetCode and LeetCode.
+
+## 🤝 Connect
+
+If you find this repository helpful, feel free to ⭐ star the repository and explore the solutions.
+
+Happy Coding! 🚀
